@@ -1,6 +1,9 @@
 from math import pi
 import json
 
+
+# MyClass; but actually they want documentation in all
+# caps and within the doc string area
 class MyClass:
     def __init__(self,i):
             self.i = i
