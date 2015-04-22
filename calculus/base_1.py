@@ -19,3 +19,4 @@ class Calculation(object):
 
     def divide(self, a, b):
         pass
+
