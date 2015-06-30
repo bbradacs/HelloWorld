@@ -1,0 +1,3 @@
+document.writeln('hello, world!');
+
+
